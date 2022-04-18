@@ -6,7 +6,7 @@ My stuying ML repo
 * And complementing with Scikit website: <https://scikit-learn.org/stable/>
 
 # Useful links
-Also trying to do useing only VIM
+Also trying to learn VIM
 
 * Thes website is helping me (portuguese-brazil) <https://woliveiras.com.br/posts/Comecando-com-o-editor-de-texto-VIM/>
 * Cool game recommended to also learn vim <https://vim-adventures.com/>
